@@ -6,13 +6,21 @@ How to Control RGB LED Stip with the Raspberry Pi  with Web Interface
 items used
 
 Raspberry Pi Model B (from Adafruit)
+
 Adafruit Pi T-Cobbler Breakout Kit (GPIO)
+
 Half size solderless breadboard (from Adafruit)
+
 3x 2n3904 transistors (from digikey)
+
 1m rgb led strip (from Adafruit)
+
 16gb class 4 SD card (from Amazon)
+
 802.11n Wifi Dongle (from Adafruit)
+
 web server with CPannel
+
 12v 2amp power supply 
 
 BeFore you Start 
@@ -34,4 +42,4 @@ what to do
 
 6. start the python script with sudo as you are using the the GPIO 
 
-7. to Change the colour go to the URL containing the controller.php like http://yourwebsite.com/contoller.php 
+7. to Change the colour go to the URL containing the controller.php like http://yourwebsite.cm/contoller.php 
