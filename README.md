@@ -1,6 +1,14 @@
 Raspberry-pi-LED-Stip-With-Web-Control
 ======================================
 
+most of this stuff is made by 5sk http://www.youtube.com/watch?v=n6u-H1sza-w 
+and changed by vlee489 
+
+licence Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Raspberry pi RGB LED Stip With Web Control by vlee489 is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+Based on a work at https://github.com/vlee489/Raspberry-pi-RGB-LED-Stip-With-Web-Control.
+
 How to Control RGB LED Stip with the Raspberry Pi  with Web Interface 
 
     items used
