@@ -34,7 +34,7 @@ http://learn.adafruit.com/adafruit-raspberry-pi-educational-linux-distro/occiden
 
 2. Place All the Files in the "For Pi" in to the raspberry pi.
 
-3. Hook up all the RGB LED strip with this schematic, at 
+3. Hook up all the RGB LED strip with this schematic, at https://github.com/vlee489/Raspberry-pi-RGB-LED-Stip-With-Web-Control/blob/master/scamatic.PNG
 
 4. On the Pi in the Poll.py file find "http://YourWebsite.com/test.php" that are lines 20, 23 and replace the it with the URL that leads to test.php file on your web server.
 
