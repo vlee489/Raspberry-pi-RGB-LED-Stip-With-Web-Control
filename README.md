@@ -3,7 +3,7 @@ Raspberry-pi-LED-Stip-With-Web-Control
 
 How to Control RGB LED Stip with the Raspberry Pi  with Web Interface 
 
-items used
+    items used
 
 Raspberry Pi Model B (from Adafruit)
 
@@ -23,12 +23,12 @@ web server with CPannel
 
 12v 2amp power supply 
 
-BeFore you Start 
+     BeFore you Start 
 
 you need to have Occidentalis Distro From AdaFruit
 http://learn.adafruit.com/adafruit-raspberry-pi-educational-linux-distro/occidentalis-v0-dot-2
 
-what to do 
+     what to do 
 
 1. Place all the Files in the "For Web Server" folder in the Root of your web server.
 
