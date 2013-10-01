@@ -1,8 +1,9 @@
 Raspberry-pi-LED-Stip-With-Web-Control
 ======================================
 
-most of this stuff is made by 5sk http://www.youtube.com/watch?v=n6u-H1sza-w 
-and changed by vlee489 
+The PHP Files were made by 5sk http://www.youtube.com/watch?v=n6u-H1sza-w 
+
+The Python Files Were made By me vlee489.
 
 licence Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported http://creativecommons.org/licenses/by-nc-sa/3.0/
 

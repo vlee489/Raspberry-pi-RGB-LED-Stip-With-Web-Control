@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 
 #pretty obvious, but you'll want these dependencies to be installed for this script to work
-import RPi.GPIO as GPIO, time, requests, os
+import RPi.GPIO as GPIO
+import time
+import requests
+import os
 
 def cls():
     os.system(['clear','cls'][os.name == 'nt'])
