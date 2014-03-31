@@ -1,14 +1,11 @@
 Raspberry-pi-LED-Stip-With-Web-Control
 ======================================
-
-The PHP Files were made by 5sk http://www.youtube.com/watch?v=n6u-H1sza-w 
-
-The Python Files Were made By me vlee489.
-
 licence Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 Raspberry pi RGB LED Stip With Web Control by vlee489 is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 Based on a work at https://github.com/vlee489/Raspberry-pi-RGB-LED-Stip-With-Web-Control.
+
+This code can be easily changed to easily work with other things.
 
 How to Control RGB LED Stip with the Raspberry Pi  with Web Interface 
 
@@ -36,6 +33,12 @@ web server with CPannel
 
 you need to have Occidentalis Distro From AdaFruit
 http://learn.adafruit.com/adafruit-raspberry-pi-educational-linux-distro/occidentalis-v0-dot-2
+
+or have all the required python librarys installed  
+requests
+time
+os
+RPi.GPIO
 
      what to do 
 
