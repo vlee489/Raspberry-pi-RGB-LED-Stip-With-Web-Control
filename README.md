@@ -1,9 +1,6 @@
 Raspberry-pi-LED-Stip-With-Web-Control
 ======================================
-licence Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported http://creativecommons.org/licenses/by-nc-sa/3.0/
-
-Raspberry pi RGB LED Stip With Web Control by vlee489 is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
-Based on a work at https://github.com/vlee489/Raspberry-pi-RGB-LED-Stip-With-Web-Control.
+Licence is under the GNU GPL v3.0 NOT Creative Commans any more
 
 This code can be easily changed to easily work with other things.
 
