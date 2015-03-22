@@ -1,5 +1,10 @@
 Raspberry-pi-LED-Stip-With-Web-Control
 ======================================
+
+#Update
+This is outdated a new repo with updated is advatble at 
+https://github.com/vlee489/Controlling-Raspberry-Pi-GPIO-on-off-over-the-internet
+
 Licence is under the GNU GPL v3.0 NOT Creative Commans any more
 
 This code can be easily changed to easily work with other things.
